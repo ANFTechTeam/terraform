@@ -1,4 +1,4 @@
-# ANF Deploy
+# Azure NetApp Files SMB Deploy Example
 
 ## Pre-reqs
 
